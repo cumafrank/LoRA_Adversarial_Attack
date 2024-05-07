@@ -35,7 +35,8 @@ The models are evaluated based on accuracy, model certainty, and attack success 
 
 ## Results
 The results of the experiments are summarized in the `Final - Report.pdf` directory. 
-![alt text](Result/FGSM - Attack success rate.png)
+![Result/FGSM - Attack success rate.png](https://github.com/cumafrank/LoRA_Adversarial_Attack/blob/main/Result/FGSM%20-%20Attack%20success%20rate.png)
+![Result/FGSM - Model Certainty.png](https://github.com/cumafrank/LoRA_Adversarial_Attack/blob/main/Result/FGSM%20-%20Model%20Certainty.png)
 
 The key findings include:
 
